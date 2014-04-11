@@ -1,1 +1,25 @@
-/* include your css here */
+h1 {
+  text-align: center;
+}
+
+.picture {
+  width: 200px;
+}
+      
+#images {
+  background-color: black;
+  padding: 0;
+  text-align: center;
+}
+
+.pair {
+  font-family: helvetica;
+  text-align: center;
+/*list-style-position: inside;*/
+        
+}
+
+.meaning {
+  font-style: italic;
+}
+      
