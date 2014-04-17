@@ -3,12 +3,12 @@
 # U1.W2: Your website (Solo Challenge)
 
 
-## Learning Objectives
+## Learning Competencies
 - Illustrate your understanding of web design and user experience in your website
 - Describe and practice process of building a website
 
 
-## Background
+## Summary
 
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails. 
 
@@ -52,7 +52,7 @@ need a refresher.
 * Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
 #### Apply
-Create a `my_wireframe.html` file in your `unit1_week1` folder.
+Create a `my_wireframe.html` file in your `unit1_projects` folder (This folder is in your [USERNAME]github.io repository NOT the `phase_0_unit_1` repository).
 
 * Create a plan for your new web page and put the plan into your html
 file.  Add, commit, and push a file with the details to Github.

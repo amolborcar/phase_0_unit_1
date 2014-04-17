@@ -4,13 +4,13 @@
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
-#### Learning Objectives
+#### Learning Competencies
   - Use HTML tags to place content on a website
   - Apply CSS to position elements on an HTML page
   - Compare different HTML tags to one another
   - Examine pair-programming concepts
 
-#### Purpose
+#### Summary
   Welcome to your first Guided Pairing Session (GPS!)
   We are excited to have you in Phase 0 and to work with
   you to get you prepared for an exciting time at DBC. 
@@ -22,19 +22,20 @@
   to have a good check-in (so don't forget!).**
 
 #### Directions
-  - You need to fork this gist so you have it in your GitHub account. 
-    Check to make sure you can navigate to your gists from your main 
-    GitHub account page.
-  - You will then be directed to Stypi.com, where your instructor
+  - After you finish this exercise, copy and paste your collaborative code
+    into a local HTML and CSS document and push this new page up to your
+    github.io website.
+  - You will be directed to Stypi.com, where your instructor
      will have a stypi file ready for you. Because we cannot actually link 
      a stylesheet to an HTML page in stypi, we will be placing CSS 
      between the `<style>` tags. It will be your job to put the correct 
      material in the correct file after the session. 
-     **This is not good practice, we are only doing it because of stypi.
+     **This is not good practice, we are only doing it so you can preview your page using stypi.**
   - Now you are ready to begin! Your goal is to design a website that
      introduces the concept of pair programming!  (You get to figure out how to 
      present it on the page) 
 
+***
 
   1. Discuss how you want the page to look. Draw a wireframe and write pseudocode with your pair.
   2. Include: a title and your names.
@@ -47,7 +48,6 @@
      time? Did you enjoy it? What worked? What didn't work? Add that
      to your page and style it as well. 
 
-When you are finished, copy your code into the two files. Make sure your css 
-from the `<style>` section is in the CSS file and remove it from the HTML section. 
-Update your gist. Then, test that everything is still  working by saving them 
+When you are finished, copy your code into the [gps1.1.css](gps1.1.css) and [gps1.1.html](gps1.1.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. 
+Update the html file. Then, test that everything is still  working by saving them 
 and running them together from your computer. 

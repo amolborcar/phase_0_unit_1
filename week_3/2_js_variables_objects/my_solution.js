@@ -4,25 +4,62 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// To satisfy the first test, declare a var secretNumber with a numeric value.
+// To satisfy the second test, set secretNumber = 7.
+// To satisfy the third test, declare a var password with a string value.
+// To satisfy the fourth test, set password = "just open the door"
+// To satisfy the fifth test, declare a var allowedIn with a boolean value.
+// To satisfy the sixth test, set allowedIn = false.
+// To satisfy the seventh test, create an array called members.
+// To satisfy the eighth test, set the first element of members to "John"
+// To satisfy the ninth test, set the fourth element of members to "Mary"
 
 
 // __________________________________________
 // Write your code below.
 
+// Step 1
+var secretNumber = 3;
 
+// Step 2
+var secretNumber = 7;
 
+// Step 3
+var password = "Speak friend and enter"
 
+// Step 4
+var password = "just open the door"
 
+// Step 5
+var allowedIn = true;
+
+// Step 6
+var allowedIn = false;
+
+// Step 7
+var members = ["Hello", "I", "Am", "Amol"];
+
+// Step 8
+var members = ["John", "Two", "Three", "Four"]
+
+// Step 9
+var members = ["John", "Peter", "Paul", "Mary"]
 
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
+// Steps 1-2
+var secretNumber = 7;
 
+// Steps 3-4
+var password = "just open the door";
+
+// Steps 5-6
+var allowedIn = false;
+
+// Steps 7-9
+var members = ["John", "Peter", "Paul", "Mary"]
 
 
 

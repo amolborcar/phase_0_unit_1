@@ -2,12 +2,12 @@
 
 # U1.W2: Responsive Web Design 
 
-## Learning Objectives
+## Learning Competencies
 1. Describe responsive design
 2. Determine whether responsive design is good or bad practice
 
 
-## Background
+## Summary
 
 We think of the web and websites as mostly static. They look the way
 they look.  But it's really more complicated than that.  Browsers and
@@ -21,8 +21,6 @@ adaptable to new devices and browsers.
 
 
 ## Directions
-
-Rename your `unit1_week1` folder to `unit1_projects`. Make sure to change it everywhere it's referenced! (In links, for example).
 
 Everything in this challenge is within the context of the `unit1_projects` folder in your website repository. 
 
@@ -43,7 +41,7 @@ Additional required resources:
 
 ### 2. Apply
 
-Using either a new html page in the `unit1_week1` folder or [practice files](http://girldevelopit.com/assets/intermediate-html-css/class4.zip) unzipped into the `unit1_week1` folder, try to make your page more responsive. 
+Using either a new html page in the `unit1_projects` folder or [practice files](http://girldevelopit.com/assets/intermediate-html-css/class4.zip) unzipped into the `unit1_projects` folder, try to make your page more responsive. 
 
 How does it look when
 * on your phone 
