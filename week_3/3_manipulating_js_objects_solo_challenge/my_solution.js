@@ -46,16 +46,64 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+// Define variable adam
 
+var adam = {
+}
 
+// Give adam a name property of "Adam"
+adam.name = "Adam"
 
+// Give tera a spouse property of adam
 
+terah.spouse = adam
 
+// Change the weight property of terah
 
+terah.weight = 125
+
+// Remove the eye color property of terah
+
+delete terah.eyeColor
+
+// Give adam a spouse property of terah
+
+adam.spouse = terah
+
+// Give terah a children property
+
+terah.children = {}
+
+// add carson property
+
+terah.children.carson = {
+  name: "Carson"
+}
+
+// add carter property
+
+terah.children.carter = {
+  name: "Carter"
+}
+
+// add colton property
+
+terah.children.colton = {
+  name: "Colton"
+}
+
+// add children to adam
+
+adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
+// I felt this was a good refresher for myself on working with objects and properties in JavaScript.  
+// I had seen all this material before but not in a long time, so it took me a few tries to get the syntax correct.
+// I didn't have any real problems, but I did do a bit of Googling to see if there was a "literal notation"
+// that could be used to add or modify an object's properties.  I didn't find anything but I felt that exercise helped with my understanding of objects.
+// I feel fairly confident in doing basic manipulations of object variables and think I could repeat similar exercises that I did in this task without any difficulty.
 // 
 // 
 // 

@@ -66,7 +66,12 @@ var members = ["John", "Peter", "Paul", "Mary"]
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// 
+// The biggest issue I faced in this challenge was understanding exactly what the direction were.  Once I figured out (I think) how to complete it, I found the challenge fairly simple.  
+// I understood the drivers to be basic tests on the variables that I created and felt that the best way to complete the challenge was just create random values for the variables, then correct
+// them after I received the error message.  I felt a little confused because I could just look ahead in the code and see what the "correct" values were for each question.
+// I don't think I had any questions about the content of the session, but it was a good review of creating variables and arrays.
+// I feel very confident in working with different types of variables after completing this challenge. 
+// Overall I wish the directions had been a little more clear as to how to complete the challenge, but overall I felt it was simple and effective. 
 // 
 // 
 // 
