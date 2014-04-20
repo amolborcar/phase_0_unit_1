@@ -201,7 +201,15 @@ alert("Congratulations, you trapped the ogre in the cell!");
 
 // Reflection
 // 
-// 
+// I thought this was a more fun challenge than I anticipated going in.  What struck me was how many things we had to consider to enable our 
+// character to complete the mission we created.  We initially just created the character and some movement functions,
+// but then we remembered we had to account for the ogre, had to account for if the ogre attacks, and make sure to properly guide
+// the user through the challenge.  It was difficult to complete without being able to program in actual game functionality but still fun.
+// We had to look up some syntax a couple times and were trying to figure out how to attach the functions to the objects, and we referenced both
+// the actual Code Combat challenges as well as the CodeCademy JavaScript course which we had both created.
+// I don't think I learned anything new and didn't really have trouble with anything in particular, but I do think this challenge reinforced some things 
+// I had learned realy well.   I feel fairly confident with using objects and functions in JS now but would probably still need to look some stuff up.
+// I thought this was a great challenge to pair on to keep it interesting and my pair was really great, I think if I had done this challenge solo I would have found it more annoying. 
 // 
 // 
 // 
